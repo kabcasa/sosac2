@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.sosac-2" name="Sosac.TV" version="3.1.0" provider-name="zak">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+		<import addon="script.module.six" version="1.11.0"/>
+        <import addon="script.module.requests" version="2.22.0" />
+        <import addon="script.module.routing" version="0.2.3" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+  <extension point="xbmc.service" library="service.py">
+  </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en_GB">Stream</summary>
+        <summary lang="cs_CZ">Stream</summary>
+        <summary lang="sk_SK">Stream</summary>
+        <description lang="cs_CZ">Přehrávejte tisíce filmů a seriálů s CZ/SK dabingem či titulky dostupných na sosac.tv online i offline.</description>
+        <description lang="en_GB">Play thousands of movies and series with CZ/SK dubbing or subtitles available on sosac.tv online and offline.</description>
+		<description lang="sk_SK">Prehrávajte tisíce filmov a seriálov s CZ/SK dabingom či titulkami dostupných na sosac.tv online i offline.</description>
+        <source></source>
+        <assets>
+            <icon>icon.png</icon>
+			<fanart>fanart.png</fanart>
+        </assets>
+        <news>
+        empty
+        </news>
+    </extension>
+</addon>
