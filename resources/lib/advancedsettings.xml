@@ -1,7 +1,0 @@
-<advancedsettings> 
-    <video> 
-		<playcountminimumpercent>101</playcountminimumpercent> 
-		<ignoresecondsatstart>10800</ignoresecondsatstart>
-		<!--ignorepercentatend>101</ignorepercentatend-->
-    </video>
-</advancedsettings>

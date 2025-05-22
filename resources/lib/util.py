@@ -159,41 +159,7 @@ def isNexus():
     except:
         return False
 
-try :
-    down_folder = addon.getSetting("downloads")
-    moviesPath = xbmcvfs.translatePath(os.path.join(down_folder,"movies"))
-    seriesPath = xbmcvfs.translatePath(os.path.join(down_folder,"series"))
-    moviesSub= xbmcvfs.translatePath(os.path.join(down_folder,"moviessub"))
-    seriesSub = xbmcvfs.translatePath(os.path.join(down_folder,"seriessub"))
-    movie_data = xbmcvfs.translatePath(os.path.join(profilepath,"movie_data.json"))
-    if not xbmcvfs.exists(movie_data) :
-        f_data = {}
-        f_data["test"] = "test"
-        with open(movie_data, "w") as fdata :
-            json.dump(f_data, fdata, indent=4)
-            #fdata.write(json.dumps(f_data))
-    serial_data = xbmcvfs.translatePath(os.path.join(profilepath,"serial_data.json"))
-    if not xbmcvfs.exists(serial_data) :
-        f_data = {}
-        f_data["test"] = "test"
-        with open(serial_data, "w") as fdata :
-            json.dump(f_data, fdata, indent=4)
-            #fdata.write(json.dumps(f_data))
 
-    movie_search = xbmcvfs.translatePath(os.path.join(profilepath,"movie_search.txt"))
-    serial_search = xbmcvfs.translatePath(os.path.join(profilepath,"serial_search.txt"))
-    if not os.path.isdir(moviesPath) : os.mkdir(moviesPath)
-    if not os.path.isdir(seriesPath) : os.mkdir(seriesPath)
-    if not os.path.isdir(moviesSub) : os.mkdir(moviesSub)
-    if not os.path.isdir(seriesSub) : os.mkdir(seriesSub)
-except Exception as e :
-    debug("downfolder error %s"%e, 2)
-
-xbmcpath = xbmcvfs.translatePath(os.path.join("special://xbmc","skin.estuary"))
-skinpath = xbmcvfs.translatePath("special://skin")
-
-ADVANCEDSETTINGS = xbmcvfs.translatePath(os.path.join("special://userdata","advancedsettings.xml"))
-downListPath = xbmcvfs.translatePath(os.path.join(profilepath,"downList"))
 
 addon_name_ = translate(30402) #'Sosac.TV'
 
@@ -297,35 +263,6 @@ def set_sosac_info(stream,**kwargs):
         genrev = kwargs['arg2']
         genre = genre1[int(genrev)]
         stream_url = f"{SOSAC_API}movies/lists/by-genre?g={genre}&pocet=100&stranka={page}&username={sosac_user}&password={sosac_passwordhash}"
-    elif "search" == stream :
-        keyword = kwargs['arg2']
-        stream_url = f"{SOSAC_API}movies/simple-search?q={keyword}&pocet=100&stranka={page}&username={sosac_user}&password={sosac_passwordhash}"
-    elif "advancedsearch" == stream :
-        search = urllib.parse.quote_plus(__set__('adv_keyword'))
-        debug(" params %s"%search,2)
-        yearfrom = __set__('adv_from')
-        yearto = __set__('adv_to')
-        debug(" params %s"%yearto,2)
-        year = f"{int(yearfrom)},{int(yearto)}" if yearto != "" else yearfrom
-        genre = genre1[int(__set__('adv_genre'))-1] if  int(__set__('adv_genre')) != 0 else ""
-        debug("__set__('adv_quality') %s"%__set__('adv_quality'), 2)
-        quality = "" if  __set__('adv_quality') == "All" or __set__('adv_quality') == "Vše" else __set__('adv_quality').lower()
-        debug("__set__('adv_origin') %s"%__set__('adv_origin'), 2)
-        country = country_list[int(__set__('adv_origin'))-1 ] if  int(__set__('adv_origin')) != 0 else "" 
-        #country = COUNTRY_DICT[__set__('adv_origin')] if  __set__('adv_origin') != "All" else ""
-        dubv = dub_list1[int(__set__('adv_lang'))-1 ] if  int(__set__('adv_lang')) != 0 else "" 
-        language = DUBBING[dubv] if  dubv != "" else ""
-        debug(" params %s"%language,2)
-        director = urllib.parse.quote_plus(__set__('adv_director'))
-        scriptwriter = urllib.parse.quote_plus(__set__('adv_writer'))
-        actor = urllib.parse.quote_plus(__set__('adv_actor'))
-        sort_set = int(__set__('adv_sort'))
-        sort_v = SORT_Listv[sort_set] 
-        stream_url = f"{SOSAC_API}movies/advanced-search?k={search}&y={year}&g={genre}&q={quality}&c={country}&l={language}&d={director}&s={scriptwriter}&a={actor}&pocet=10&stranka={page}&o={sort_v}&username={sosac_user}&password={sosac_passwordhash}"
-        #stream_url = stream_url.replace("&","&amp;")
-    elif "watching-time" == stream :
-        _id = kwargs['arg2']
-        stream_url = f"{SOSAC_API}movies/{_id}/watching-time?username={sosac_user}&password={sosac_passwordhash}"
     elif stream == "into-queue" :
         _id = kwargs['arg2']
         stream_url = f"{SOSAC_API}movies/{_id}/into-queue?username={sosac_user}&password={sosac_passwordhash}"
@@ -365,42 +302,6 @@ def set_sosac_ser(stream,**kwargs):
         genrev = kwargs['arg2']
         genre = genre1[int(genrev)]
         stream_url = f"{SOSAC_API}serials/lists/by-genre?g={genre}&pocet=100&stranka={page}&username={sosac_user}&password={sosac_passwordhash}"
-    elif "search" == stream :
-        keyword = kwargs['arg2']
-        stream_url = f"{SOSAC_API}serials/simple-search?q={keyword}&pocet=100&stranka={page}&username={sosac_user}&password={sosac_passwordhash}"
-    elif "advancedsearch" == stream : 
-        search = urllib.parse.quote_plus(__set__('adv_keywords'))
-        #debug(" params %s"%search,2)
-        yearfrom = __set__('adv_froms')
-        yearto = __set__('adv_tos')
-        #debug(" params %s"%yearto,2)
-        year = f"{int(yearfrom)},{int(yearto)}" if yearto != "" else yearfrom
-        genre = genre1[int(__set__('adv_genres'))-1] if  int(__set__('adv_genres')) != 0 else ""
-        quality = "" if  __set__('adv_qualitys') == "All" or __set__('adv_quality') == "Vše" else __set__('adv_qualitys').lower()
-        country = country_list[int(__set__('adv_origins'))-1 ] if  int(__set__('adv_origins')) != 0 else "" 
-        dubv = dub_list1[int(__set__('adv_langs'))-1 ] if  int(__set__('adv_langs')) != 0 else "" 
-        language = DUBBING[dubv] if  dubv != "" else ""
-        debug(" params %s"%language,2)
-        director = urllib.parse.quote_plus(__set__('adv_directors'))
-        scriptwriter = urllib.parse.quote_plus(__set__('adv_writers'))
-        actor = urllib.parse.quote_plus(__set__('adv_actors'))
-        sort_set = int(__set__('adv_sorts'))
-        sort_v = SORT_Listsv[sort_set] 
-        stream_url = f"{SOSAC_API}serials/advanced-search?k={search}&y={year}&g={genre}&q={quality}&c={country}&l={language}&d={director}&s={scriptwriter}&a={actor}&pocet=10&stranka={page}&o={sort_v}&username={sosac_user}&password={sosac_passwordhash}"
-        #stream_url = stream_url.replace("&","&amp;")
-        #stream_url = f"{SOSAC_API}serials/advanced-search?k={search}&y={year}&g={genre}&q={quality}&c={country}&l={language}&d={director}&s={scriptwriter}&a={actor}&pocet=10&stranka=1&o={sorted}&username={sosac_user}&password={sosac_passwordhash}"
-    elif "by-date" == stream :
-        date_from = kwargs['arg2']
-        debug("by-date date_from %s"%date_from,2)
-        date_to = kwargs['arg3']
-        debug("by-date date_to %s"%date_to,2)
-        stream_url = f"{SOSAC_API}episodes/lists/by-date?f={date_from}&t={date_to}&pocet=100&stranka={page}&username={sosac_user}&password={sosac_passwordhash}"         
-    elif (stream == "watching-time") and ("episodes" == episodes) :
-        _id = kwargs['arg2']
-        stream_url = f"{SOSAC_API}episodes/{_id}/watching-time?username={sosac_user}&password={sosac_passwordhash}"
-    elif stream == "watching-time" :
-        _id = kwargs['arg2']
-        stream_url = f"{SOSAC_API}serials/{_id}/watching-time?username={sosac_user}&password={sosac_passwordhash}"
     elif stream == "into-queue" :
         _id = kwargs['arg2']
         stream_url = f"{SOSAC_API}serials/{_id}/into-queue?username={sosac_user}&password={sosac_passwordhash}"
@@ -435,22 +336,6 @@ def set_sosac_epi(sais_id) :
     debug("set_sosac_epi stream_url %s"%stream_url,2)
     return stream_url
 
-def set_sosac_guide(day,page) :
-    sosac_passwordhash = passhash()
-    stream_url = f"{SOSAC_API}tv/program?d={day}&pocet=100&stranka={page}&username={sosac_user}&password={sosac_passwordhash}"
-    debug("set_sosac_guide stream_url %s"%stream_url,2)
-    return stream_url
-
-def set_sosac_watchTime(type_id, stream_id, time_val) :
-    sosac_passwordhash = passhash()
-    time_val = int(time_val)
-    data = {"time":int(time_val)}
-    stream_url = f"{SOSAC_API}{type_id}/{stream_id}/watching-time?username={sosac_user}&password={sosac_passwordhash}"
-    hdrs = {'Content-Type': 'application/json'}
-    respse = requests.post(stream_url, json=data, headers=hdrs)
-    debug("mark as watched time_val %s %s"%(time_val,stream_url),2)
-    #debug("mark as watched repse %s"%respse.status_code,2)
-    return
 
 def get_title(dest) :
     not_name = dest.split("/")[-1]
