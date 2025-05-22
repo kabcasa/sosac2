@@ -1,0 +1,1362 @@
+# Kodi Media Center language file
+# Addon Name: Phenomenal
+# Addon id: skin.phenomenal
+# Addon Provider: bluecloudragon
+msgid ""
+msgstr ""
+
+msgctxt "#30402"
+msgid "Sosac.TV"
+msgstr "Sosáč.TV"
+
+msgctxt "#30403"
+msgid "Please wait..."
+msgstr "Prosím čekejte..."
+
+msgctxt "#30404"
+msgid "Login failed, please check addon settings"
+msgstr "Přihlášení se nepodařilo. Uložili jste v nastavení zadané přihlašovací údaje stisknutím ok? Nejdříve je potřeba nastavení stiskem ok uložit a poté znovu spustit nastavení a účet nechat zkontrolovat. Otevřít nastavení nyní?"
+
+msgctxt "#30000"
+msgid "Movies"
+msgstr "Filmy"
+
+msgctxt "#30001"
+msgid "Tv Shows"
+msgstr "Seriály"
+
+msgctxt "#30002"
+msgid "Tv Guide"
+msgstr "TV Program"
+
+msgctxt "#30003"
+msgid "Search"
+msgstr "Hledání"
+
+msgctxt "#30004"
+msgid "Settings"
+msgstr "Nastavení"
+
+msgctxt "#30005"
+msgid "Advanced Search"
+msgstr "Pokročilé hledání"
+
+msgctxt "#30006"
+msgid "Downloaded"
+msgstr "Stažené"
+
+msgctxt "#30007"
+msgid "My Playlist"
+msgstr "Moje fronta"
+
+msgctxt "#30008"
+msgid "Unfinished"
+msgstr "Rozkoukané"
+
+msgctxt "#30009"
+msgid "Watched"
+msgstr "Historie zhlédnutých filmů"
+
+msgctxt "#30010"
+msgid "Newly Dubbed"
+msgstr "Novinky nadabované"
+
+msgctxt "#30011"
+msgid "New movies with Subtitles"
+msgstr "Novinky s titulky"
+
+msgctxt "#30012"
+msgid "Lastly Added"
+msgstr "Naposledy přidané"
+
+msgctxt "#30013"
+msgid "Current Topic Movies"
+msgstr "Aktuální"
+
+msgctxt "#30014"
+msgid "Popular News Movies"
+msgstr "Populární novinky"
+
+msgctxt "#30015"
+msgid "Popular Movies"
+msgstr "Populární filmy"
+
+msgctxt "#30016"
+msgid "Rated News Movies"
+msgstr "Nejlépe hodnocené filmové novinky"
+
+msgctxt "#30017"
+msgid "Best Rated Movies"
+msgstr "Nejlépe hodnocené filmy"
+
+msgctxt "#30018"
+msgid "Movies A-Z"
+msgstr "Dle počátečního písmene"
+
+msgctxt "#30019"
+msgid "Genre"
+msgstr "Dle žánru"
+
+msgctxt "#30020"
+msgid "Year"
+msgstr "Dle roku"
+
+msgctxt "#30021"
+msgid "Quality"
+msgstr "Dle kvality"
+
+msgctxt "#30022"
+msgid "My TV shows playlist"
+msgstr "Moje fronta"
+
+msgctxt "#30023"
+msgid "My unfinished TV shows"
+msgstr "Rozkoukané seriály"
+
+msgctxt "#30024"
+msgid "My watched  TV shows"
+msgstr "Historie zhlédnutých seriálů"
+
+msgctxt "#30025"
+msgid "Last added TV shows"
+msgstr "Naposledy přidané seriály"
+
+msgctxt "#30026"
+msgid "Episodes with newly added dubbing"
+msgstr "Nově nadabované epizody"
+
+msgctxt "#30027"
+msgid "New episodes with subtitles"
+msgstr "Nové epizody s titulky"
+
+msgctxt "#30028"
+msgid "Last added episodes"
+msgstr "Naposledy přidané epizody"
+
+msgctxt "#30029"
+msgid "Episodes tracker"
+msgstr "Kalendář seriálů"
+
+msgctxt "#30030"
+msgid "Popular new TV shows"
+msgstr "Populární nové seriály"
+
+msgctxt "#30031"
+msgid "Popular TV shows"
+msgstr "Populární seriály"
+
+msgctxt "#30032"
+msgid "Rated News TV shows"
+msgstr "Nejlépe hodnocené seriálové novinky"
+
+msgctxt "#30033"
+msgid "Best Rated TV shows"
+msgstr "Nejlépe hodnocené seriály"
+
+msgctxt "#30034"
+msgid "TV shows A-Z"
+msgstr "Dle počátečního písmene"
+
+msgctxt "#30035"
+msgid "TV shows by genre"
+msgstr "Dle žánru"
+
+msgctxt "#30036"
+msgid "TV shows by year"
+msgstr "Dle roku"
+
+msgctxt "#30040"
+msgid "Delete old item"
+msgstr "Smazat historii hledání"
+
+msgctxt "#30041"
+msgid "Reset all search parameters"
+msgstr "Resetovat parametry hledání"
+
+msgctxt "#30042"
+msgid "Sort results by"
+msgstr "Výsledky řadit dle"
+
+msgctxt "#30043"
+msgid "Keyword"
+msgstr "Hledané slovo(a)"
+
+msgctxt "#30044"
+msgid "Script writer"
+msgstr "Scénárista"
+
+msgctxt "#30045"
+msgid "Actor"
+msgstr "Herec"
+
+msgctxt "#30046"
+msgid "Release year from"
+msgstr "Od roku"
+
+msgctxt "#30047"
+msgid "Release year to"
+msgstr "Do roku"
+
+msgctxt "#30048"
+msgid "Genre"
+msgstr "Žánr"
+
+msgctxt "#30049"
+msgid "Origin country"
+msgstr "Země původu"
+
+msgctxt "#30050"
+msgid "Spoken language"
+msgstr "Jazyk"
+
+msgctxt "#30051"
+msgid "Available quality"
+msgstr "Kvalita"
+
+msgctxt "#30052"
+msgid "Director"
+msgstr "Režisér"
+
+msgctxt "#30053"
+msgid "Submit"
+msgstr "Hledej"
+
+msgctxt "#30054"
+msgid "Select sort parameter"
+msgstr "Vyberte jak chcete řadit výsledky"
+
+msgctxt "#30055"
+msgid "Input media name"
+msgstr "Zadejte název"
+
+msgctxt "#30056"
+msgid "Input director name"
+msgstr "Zadejte jméno režiséra"
+
+msgctxt "#30057"
+msgid "Input script writer name"
+msgstr "Zadejte jméno scénáristy"
+
+msgctxt "#30058"
+msgid "Input actor name"
+msgstr "Zadejte jméno herce"
+
+msgctxt "#30059"
+msgid "Select year to release from"
+msgstr "Zadejte od kterého roku filmy hledáte"
+
+msgctxt "#30060"
+msgid "Select year to release to"
+msgstr "Zadejte do kterého roku filmy hledáte"
+
+msgctxt "#30061"
+msgid "Select genre"
+msgstr "Vyberte žánr"
+
+msgctxt "#30062"
+msgid "Select origin country"
+msgstr "Vyberte zemi vzniku"
+
+msgctxt "#30063"
+msgid "Select spoken language"
+msgstr "Vyberte jazyk filmu"
+
+msgctxt "#30064"
+msgid "Select Available quality"
+msgstr "Vyberte požadovanou kvalitu"
+
+msgctxt "#30065"
+msgid "Available quality"
+msgstr "Dostupné kvality"
+
+msgctxt "#30066"
+msgid "Director"
+msgstr "Režisér"
+
+msgctxt "#30067"
+msgid "Submit"
+msgstr "Zadat"
+
+msgctxt "#30070"
+msgid "Select date from"
+msgstr "Vyberte datum od"
+
+msgctxt "#30071"
+msgid "Select date to"
+msgstr "Vyberte datum do"
+
+msgctxt "#30072"
+msgid "Next"
+msgstr "Další"
+
+msgctxt "#30073"
+msgid "Previous"
+msgstr "Předchozí"
+
+msgctxt "#30074"
+msgid "Choose streams quality"
+msgstr "Vyberte si stream"
+
+msgctxt "#30075"
+msgid "Could not find any streams"
+msgstr "Video není dostupné"
+
+msgctxt "#30076"
+msgid "Start Downloading"
+msgstr "Začátek stahování"
+
+msgctxt "#30077"
+msgid "Downloaded percent"
+msgstr "Staženo procent"
+
+msgctxt "#30078"
+msgid "Download Completed"
+msgstr "Stahování dokončeno"
+
+msgctxt "#30079"
+msgid "Download error"
+msgstr "Chyba stažení"
+
+msgctxt "#30100"
+msgid "Description menu :  Movies"
+msgstr "Filmy ke sledování si můžete vybrat i na webu movies.sosac.tv."
+
+msgctxt "#30101"
+msgid "Description menu :  Tv Shows"
+msgstr "Seriály ke sledování si můžete vybrat i na webu tv.sosac.tv."
+
+msgctxt "#30102"
+msgid "Description menu :  Tv Guide"
+msgstr "Filmy a seriály podle toho, jak byly odvysílány v TV."
+
+msgctxt "#30103"
+msgid "Description menu :  Search"
+msgstr "Jednoduché i pokročilé vyhledávání filmů či seriálů"
+
+msgctxt "#30104"
+msgid "Description menu :  Settings"
+msgstr "Pro neomezené přehrávání nezapomeňte nastavit Vaše uživatelské jméno a heslo na streamuj.tv."
+
+msgctxt "#30105"
+msgid "Description menu :  Advanced Search"
+msgstr "Pokročilé vyhledávání umožňuje zůžit filmy či seriály podle několika parametrů. Můžete si například zobrazit komedie vydané v letech 2010 až 2020, ve kterých hraje Jennifer Aniston, a seřadit si je podle hodnocení."
+
+msgctxt "#30106"
+msgid "Description menu :  Downloaded"
+msgstr "Stáhněte si video pro offline přehrátí či pokud si chcete být jisti, že se Vám nebude přerušovat. Video stáhnete z kontextové nabídky, která se zobrazí u filmu či epizody dlouhým stiskem ok či kliknutím pravého tlačítka myši."
+
+msgctxt "#30107"
+msgid "Description menu :  My Playlist"
+msgstr "Zde se zobrazí filmy, které máte v oblíbených. Můžete je přidat z kontextového menu, které se zobrazí dlouhým stisknutím tlačitka ok či pravého tlačítka myši. Filmy si do playlistu můžete přidat i na webu movies.sosac.tv."
+
+msgctxt "#30108"
+msgid "Description menu :  Unfinished"
+msgstr "Vaše rozkoukané filmy."
+
+msgctxt "#30109"
+msgid "Description menu :  Watched"
+msgstr "Historie zhlédnutých filmů."
+
+msgctxt "#30110"
+msgid "Description menu :  Newly Dubbed"
+msgstr "Naposledy přidané nové i starší filmy, u kterých je nově dostupný CZ nebo SK dabing."
+
+msgctxt "#30111"
+msgid "Description menu :  New movies with Subtitles"
+msgstr "Naposledy přidané filmy s CZ nebo SK titulky."
+
+msgctxt "#30112"
+msgid "Description menu :  Lastly Added"
+msgstr "Všechny naposledy přidané filmy."
+
+msgctxt "#30113"
+msgid "Description menu :  Current Topic Movies"
+msgstr "Kategorie aktuálních tématických filmů."
+
+msgctxt "#30114"
+msgid "Description menu :  Popular News Movies"
+msgstr "Populární filmy, které byly vydané během posledních 3 let."
+
+msgctxt "#30115"
+msgid "Description menu :  Popular Movies"
+msgstr "Všechny populární filmy."
+
+msgctxt "#30116"
+msgid "Description menu :  Rated News Movies"
+msgstr "Nejlépe hodnocené filmy, které byly vydané během posledních 3 let."
+
+msgctxt "#30117"
+msgid "Description menu :  Best Rated Movies"
+msgstr "Všechny nejlépe hodnocené filmy."
+
+msgctxt "#30118"
+msgid "Description menu :  Movies A-Z"
+msgstr "Všechny filmy seřazené podle počátečního písmene."
+
+msgctxt "#30119"
+msgid "Description menu :  Genre"
+msgstr "Všechny filmy seřazené podle žánrů."
+
+msgctxt "#30120"
+msgid "Description menu :  Year"
+msgstr "Všechny filmy seřazené podle roku."
+
+msgctxt "#30121"
+msgid "Description menu :  Quality"
+msgstr "Všechny filmy filtrované podle dostupné kvality."
+
+msgctxt "#30122"
+msgid "Description menu :  My TV shows playlist"
+msgstr "Zde se zobrazí seriály, které máte v oblíbených. Můžete je přidat z kontextového menu, které se zobrazí dlouhým stisknutím tlačitka ok či pravého tlačítka myši. Seriály si mezi oblíbené můžete přidat i na webu tv.sosac.tv."
+
+msgctxt "#30123"
+msgid "Description menu :  My unfinished TV shows"
+msgstr "Seriály, u kterých máte rozkoukanou minimálně jednu epizodu."
+
+msgctxt "#30124"
+msgid "Description menu :  My watched  TV shows"
+msgstr "Seriály, u kterých máte označené všechny epizody jako zhlédnuté."
+
+msgctxt "#30125"
+msgid "Description menu :  Last added TV shows"
+msgstr "Všechny naposledy přidané seriály."
+
+msgctxt "#30126"
+msgid "Description menu :  Episodes with newly added dubbing"
+msgstr "Nové epizody s CZ či SK dabingem i starší epizody, ke kterým byl CZ nebo SK dabing nově přidán."
+
+msgctxt "#30127"
+msgid "Description menu :  New episodes with subtitles"
+msgstr "Nové epizody s CZ nebo SK titulky."
+
+msgctxt "#30128"
+msgid "Description menu :  Last added episodes"
+msgstr "Všechny naposledy přidané epizody seriálů."
+
+msgctxt "#30129"
+msgid "Description menu :  Episodes tracker"
+msgstr "Program vysílání seriálových epizod, v těchto seznamech jsou zahrnuty i ještě neaktivní epizody, které budou přidány po odvysílání."
+
+msgctxt "#30130"
+msgid "Description menu :  Popular new TV shows"
+msgstr "Seriály, které vznikly za poslední 3 roky a mají nejvyšší počty zhlédnutí či hodnocení, ať již kladných nebo záporných."
+
+msgctxt "#30131"
+msgid "Description menu :  Popular TV shows"
+msgstr "Seriály, které mají nejvyšší počty zhlédnutí či hodnocení, ať již kladných nebo záporných."
+
+msgctxt "#30132"
+msgid "Description menu :  Rated News TV shows"
+msgstr "Nejlépe hodnocené seriály, které vznikly během posledních 3 let."
+
+msgctxt "#30133"
+msgid "Description menu :  Best Rated TV shows"
+msgstr "Seriály s nejlepším hodnocením."
+
+msgctxt "#30134"
+msgid "Description menu :  TV shows A-Z"
+msgstr "Seriály filtrované podle počátečního písmene."
+
+msgctxt "#30135"
+msgid "Description menu :  TV shows by genre"
+msgstr "Seriály filtrované podle žánru."
+
+msgctxt "#30136"
+msgid "Description menu :  TV shows by year"
+msgstr "Seriály filtrované podle roku vzniku."
+
+msgctxt "#30140"
+msgid "Description menu :  Delete old item"
+msgstr "Tato možnost smaže historii vyhledávání."
+
+msgctxt "#30141"
+msgid "Description menu :  Reset all search parameters"
+msgstr "Tato možnost resetuje všechny vyhledávací parametry na defaultní hodnoty."
+
+msgctxt "#30142"
+msgid "Description menu :  Sort results by"
+msgstr "Zvolte jakým způsobem se mají řadit nalezené výsledky."
+
+msgctxt "#30143"
+msgid "Description menu :  Keyword"
+msgstr "Zadejte hledané klíčové slovo(a). Pokud zadáváte název, nezadávejte rok vzniku. Zadejte jen celý název nebo část názvu. Diakritika, mezery, apostrofy a jiné speciální znaky jsou ignorovány, nemusíte je zadávat. Prohledávají se názvy, tagy a popisy."
+
+msgctxt "#30144"
+msgid "Description menu :  Script writer"
+msgstr "Zužte výsledky na díla od zadaného scénáristy. Zadejte celé nebo jen část jména."
+
+msgctxt "#30145"
+msgid "Description menu :  Actor"
+msgstr "Zužte výsledky na díla, kde hrál zadaný herec. Zadejte celé nebo jen část jména."
+
+msgctxt "#30146"
+msgid "Description menu :  Release year from"
+msgstr "Zužte výsledky na díla vzniklá od vybraného roku."
+
+msgctxt "#30147"
+msgid "Description menu :  Release year to"
+msgstr "Zužte výsledky na díla vzniklá do vybraného roku."
+
+msgctxt "#30148"
+msgid "Description menu :  Genre"
+msgstr "Zužte výsledky podle vybraného žánru."
+
+msgctxt "#30149"
+msgid "Description menu :  Origin country"
+msgstr "Zužte výsledky na díla, která vznikla ve vybrané zemi."
+
+msgctxt "#30150"
+msgid "Description menu :  Spoken language"
+msgstr "Zužte výsledky na díla, ve kterých se mluví vybraným jazykem, případně jsou vybraným jazykem nadabována."
+
+msgctxt "#30151"
+msgid "Description menu :  Available quality"
+msgstr "Zužte výsledky na díla s vybranou kvalitou."
+
+msgctxt "#30152"
+msgid "Description menu :  Director"
+msgstr "Zužte výsledky na díla od zadaného scénáristy. Můžete zadat celé jméno nebo jen část, vše bez diakritiky."
+
+msgctxt "#30200"
+msgid "Streamuj.tv User"
+msgstr "Streamuj.tv uživatelské jméno"
+
+msgctxt "#30201"
+msgid "Streamuj.tv Password"
+msgstr "Streamuj.tv heslo"
+
+msgctxt "#30202"
+msgid "Sosac.tv User"
+msgstr "Sosac.tv uživatelské jméno"
+
+msgctxt "#30203"
+msgid "Sosac.tv Password"
+msgstr "Sosac.tv heslo"
+
+msgctxt "#30204"
+msgid "Preferred server location"
+msgstr "Preferovaná lokalita serverů"
+
+msgctxt "#30205"
+msgid "Accounts"
+msgstr "Účty"
+
+msgctxt "#30206"
+msgid "Streams"
+msgstr "Streamování"
+
+msgctxt "#30207"
+msgid "Downloads"
+msgstr "Stahování"
+
+msgctxt "#30208"
+msgid "Others"
+msgstr "Ostatní"
+
+msgctxt "#30210"
+msgid "Automatically choose stream"
+msgstr "Zvolit stream automaticky"
+
+msgctxt "#30211"
+msgid "Preferred video quality"
+msgstr "Preferovaná kvalita videa"
+
+msgctxt "#30212"
+msgid "First preferred dubbing language"
+msgstr "Preferovaný jazyk dabingu"
+
+msgctxt "#30213"
+msgid "Second preferred dubbing language"
+msgstr "Druhý preferovaný jazyk dabingu"
+
+msgctxt "#30214"
+msgid "Auto subtitles"
+msgstr "Zobrazovat titulky"
+
+msgctxt "#30215"
+msgid "First preferred subtitles"
+msgstr "Preferovaný jazyk titulků"
+
+msgctxt "#30216"
+msgid "Second preferred subtitles"
+msgstr "Druhý preferovaný jazyk titulků"
+
+msgctxt "#30217"
+msgid "Automatically play next episode"
+msgstr "Automaticky přehrát další epizodu"
+
+msgctxt "#30218"
+msgid "Current topic"
+msgstr "Aktuální téma"
+
+msgctxt "#30219"
+msgid "Folder"
+msgstr "Složka"
+
+msgctxt "#30220"
+msgid "Notify percent"
+msgstr "Upozornit na stahované"
+
+msgctxt "#30221"
+msgid "Notify percent every"
+msgstr "Upozornit na stahování po"
+
+msgctxt "#30222"
+msgid "Check new episodes each"
+msgstr "Zkontrolovat nové epizody každý"
+
+msgctxt "#30223"
+msgid "Currently installed version"
+msgstr "Nainstalovaná verze"
+
+msgctxt "#30224"
+msgid "Check for new version"
+msgstr "Zkontrolovat aktualizace"
+
+msgctxt "#30225"
+msgid "Start addon with Kodi start"
+msgstr "Spustit doplněk po spuštění Kodi"
+
+msgctxt "#30226"
+msgid "CZECH"
+msgstr "Česky"
+
+msgctxt "#30227"
+msgid "SLOVAK"
+msgstr "Slovensky"
+
+msgctxt "#30228"
+msgid "ENGLISH"
+msgstr "Anglicky"
+
+msgctxt "#30229"
+msgid "NO"
+msgstr "NE"
+
+msgctxt "#30230"
+msgid "CZ"
+msgstr "CZ"
+
+msgctxt "#30231"
+msgid "PL"
+msgstr "PL"
+
+msgctxt "#30232"
+msgid "2160p(UHD)"
+msgstr "2160p(UHD)"
+
+msgctxt "#30233"
+msgid "1080p(FHD)"
+msgstr "1080p(FHD)"
+
+msgctxt "#30234"
+msgid "720p(HD)"
+msgstr "720p(HD)"
+
+msgctxt "#30235"
+msgid "480p(SD)"
+msgstr "480p(SD)"
+
+msgctxt "#30236"
+msgid "12hours"
+msgstr "12hodin"
+
+msgctxt "#30237"
+msgid "1day"
+msgstr "1den"
+
+msgctxt "#30238"
+msgid "3days"
+msgstr "3dny"
+
+msgctxt "#30239"
+msgid "7days"
+msgstr "7dnů"
+
+msgctxt "#30240"
+msgid "30days"
+msgstr "30dnů"
+
+msgctxt "#30241"
+msgid "30days"
+msgstr "30dnů"
+
+msgctxt "#30242"
+msgid "1"
+msgstr "1"
+
+msgctxt "#30243"
+msgid "2"
+msgstr "2"
+
+msgctxt "#30244"
+msgid "2"
+msgstr "2"
+
+msgctxt "#30245"
+msgid "10%"
+msgstr "10%"
+
+msgctxt "#30246"
+msgid "20%"
+msgstr "20%"
+
+msgctxt "#30247"
+msgid "30%"
+msgstr "30%"
+
+msgctxt "#30248"
+msgid "40%"
+msgstr "40%"
+
+msgctxt "#30249"
+msgid "50%"
+msgstr "50%"
+
+msgctxt "#30250"
+msgid "accounts settings "
+msgstr "nastavení účtu "
+
+msgctxt "#30251"
+msgid "Set Streamuj.tv user"
+msgstr "Streamuj.tv premium účet slouží k neomezenému sledování videí. Bez premium účtu uvidíte jen 2 první minuty videa."
+
+msgctxt "#30252"
+msgid "Set Streamuj.tv password"
+msgstr "Streamuj.tv premium účet slouží k neomezenému sledování videí. Bez premium účtu uvidíte jen 2 první minuty videa."
+
+msgctxt "#30253"
+msgid "Set Sosac.tv user"
+msgstr "Sosac.tv účet je zdarma, registrace se provádí zvlášť na tv.sosac.tv. Slouží k uložení časů rozkoukaných videí, uložení historie již zhlédnutých a tvorbě playlistů. Změny můžete provádět i na webu."
+
+msgctxt "#30254"
+msgid "Set Sosac.tv password"
+msgstr "Sosac.tv účet je zdarma, registrace se provádí zvlášť na tv.sosac.tv. Slouží k uložení časů rozkoukaných videí, uložení historie již zhlédnutých a tvorbě playlistů. Změny můžete provádět i na webu."
+
+msgctxt "#30255"
+msgid "Preferred server location for streaming, values 1 or 2"
+msgstr "Preferovaná lokalita streamovacích serverů, můžete si vybrat mezi servery v ČR (1) a Polsku (2)."
+
+msgctxt "#30256"
+msgid "Select auto ou manual stream dubbing and quality"
+msgstr "Chcete vybírat streamy ručně nebo automaticky dle nastavených preferencí?"
+
+msgctxt "#30257"
+msgid "Select stream quality"
+msgstr "Vyberte si preferovanou kvalitu. Pokud v ní není video dostupné, vybere se kvalita nejblíže dostupná."
+
+msgctxt "#30258"
+msgid "Select prefered lenguage"
+msgstr "Vyberte primárně preferovaný jazyk dabingu."
+
+msgctxt "#30259"
+msgid "Select second prefered lenguage"
+msgstr "Sekundární preferovaný jazyk dabingu, pokud primární není dostupný."
+
+msgctxt "#30260"
+msgid "Select enbable auto subtitles"
+msgstr "Chcete automaticky zobrazovat titulky?"
+
+msgctxt "#30261"
+msgid "Select prefered subtitle lenguage"
+msgstr "Vyberte primárně preferovaný jazyk titulků."
+
+msgctxt "#30262"
+msgid "Select second prefered subtitle lenguage"
+msgstr "Sekundárně preferovaný jazyk titulků, pokud primární není dostupný."
+
+msgctxt "#30263"
+msgid "Select Automatically play next episodes"
+msgstr "Chcete po skončení epizody automaticky spustit následující epizodu?"
+
+msgctxt "#30264"
+msgid "Select to enable or not current topic "
+msgstr "Zobrazovat aktuální tématická videa?"
+
+msgctxt "#30265"
+msgid "Set streams preferences"
+msgstr "Nastavení parametrů streamování."
+
+msgctxt "#30266"
+msgid "Set downloads preferences"
+msgstr "Nastavení parametrů stahování."
+
+msgctxt "#30267"
+msgid "Set videos downloads folder"
+msgstr "Nastavte složku, kam se mají stahovaná videa ukládat."
+
+msgctxt "#30268"
+msgid "Enable download percent value for notification"
+msgstr "Chcete zobrazit notifikace o stahování videa při stažení určité části videa?"
+
+msgctxt "#30269"
+msgid "Select download percent value for notification"
+msgstr "Jak má být velká část videa, při které se zobrazí notifikace o stahování?"
+
+msgctxt "#30270"
+msgid "Select interval for new episodes"
+msgstr "Během jaké doby chcete u seriálů kontrolovat nově dostupné epizody?"
+
+msgctxt "#30271"
+msgid "Others settings"
+msgstr "Další nastavení"
+
+msgctxt "#30272"
+msgid "Display addon version"
+msgstr "Zobrazit verzi doplňku"
+
+msgctxt "#30273"
+msgid "Enable to check for new addon version"
+msgstr "Chcete zkontrolovat, zda není dostupná nová verze doplňku?"
+
+msgctxt "#30274"
+msgid "Enable to start addon with Kodi start"
+msgstr "Nastavit automatické spuštění doplňku po spuštění Kodi."
+
+msgctxt "#30275"
+msgid "Delete item"
+msgstr "Smazat položku"
+
+msgctxt "#30280"
+msgid "Select play"
+msgstr "Jak chcete video přehrát?"
+
+msgctxt "#30281"
+msgid "Start from"
+msgstr "Pokračovat v přehrávání od"
+
+msgctxt "#30282"
+msgid "Start from beginning"
+msgstr "Přehrát od začátku"
+
+msgctxt "#30283"
+msgid "Season"
+msgstr "Sezóna"
+
+msgctxt "#30284"
+msgid "New search keyword"
+msgstr "Hledaná fráze"
+
+msgctxt "#30285"
+msgid "Description for new search keyword"
+msgstr "Zadejte hledanou frázi bez diakritiky"
+
+msgctxt "#30286"
+msgid "Choose stream manually"
+msgstr "Vybrat kvalitu a jazyk streamu"
+
+msgctxt "#30287"
+msgid "Add to playlist"
+msgstr "Přidat do fronty"
+
+msgctxt "#30288"
+msgid "Remove from playlist"
+msgstr "Odebrat z fronty"
+
+msgctxt "#30289"
+msgid "Reset watched time"
+msgstr "Vynulovat zhlédnutý čas"
+
+msgctxt "#30290"
+msgid "Mark as watched"
+msgstr "Označit jako zhlédnuté"
+
+msgctxt "#30291"
+msgid "Download"
+msgstr "Stáhnout"
+
+msgctxt "#30292"
+msgid "File deleted"
+msgstr "Video smazáno"
+
+msgctxt "#30293"
+msgid "Delete video file"
+msgstr "Smazat video"
+
+msgctxt "#30294"
+msgid "Next"
+msgstr "Další stránka"
+
+msgctxt "#30295"
+msgid "Previous"
+msgstr "Předchozí stránka"
+
+msgctxt "#30296"
+msgid "action"
+msgstr "akční"
+
+msgctxt "#30297
+msgid "adventure"
+msgstr "dobrodružné"
+
+msgctxt "#30298"
+msgid "animation"
+msgstr "animované pohádky"
+
+msgctxt "#30299"
+msgid "biography"
+msgstr "biografické"
+
+msgctxt "#30300"
+msgid "cartoons"
+msgstr "animované"
+
+msgctxt "#30301"
+msgid "comedy"
+msgstr "komedie"
+
+msgctxt "#30302"
+msgid "crime"
+msgstr "krimi"
+
+msgctxt "#30303"
+msgid "disaster"
+msgstr "katastrofické"
+
+msgctxt "#30304"
+msgid "documentary"
+msgstr "dokumentární"
+
+msgctxt "#30305"
+msgid "drama"
+msgstr "drama"
+
+msgctxt "#30306"
+msgid "erotic"
+msgstr "erotické"
+
+msgctxt "#30307"
+msgid "experimental"
+msgstr "experimentální"
+
+msgctxt "#30308"
+msgid "fairytales"
+msgstr "pohádky"
+
+msgctxt "#30309"
+msgid "family"
+msgstr "rodinné"
+
+msgctxt "#30310"
+msgid "fantasy"
+msgstr "fantasy"
+
+msgctxt "#30311"
+msgid "history"
+msgstr "historické"
+
+msgctxt "#30312"
+msgid "horror"
+msgstr "horory"
+
+msgctxt "#30313"
+msgid "imax"
+msgstr "IMAX"
+
+msgctxt "#30314"
+msgid "krimi"
+msgstr "krimi"
+
+msgctxt "#30315"
+msgid "music"
+msgstr "hudební"
+
+msgctxt "#30316"
+msgid "mystery"
+msgstr "mysteriózní"
+
+msgctxt "#30317"
+msgid "psychological"
+msgstr "psychologické"
+
+msgctxt "#30318"
+msgid "publicistic"
+msgstr "publicistické"
+
+msgctxt "#30319"
+msgid "realitytv"
+msgstr "reality show"
+
+msgctxt "#30320"
+msgid "romance"
+msgstr "romantické"
+
+msgctxt "#30321"
+msgid "sci-fi"
+msgstr "sci-fi"
+
+msgctxt "#30322"
+msgid "sport"
+msgstr "sportovní"
+
+msgctxt "#30323"
+msgid "talkshow"
+msgstr "talkshow"
+
+msgctxt "#30324"
+msgid "thriller"
+msgstr "thriller"
+
+msgctxt "#30325"
+msgid "war"
+msgstr "válečné"
+
+msgctxt "#30326"
+msgid "western"
+msgstr "western"
+
+msgctxt "#30327"
+msgid "season"
+msgstr "sezóna"
+
+msgctxt "#30328"
+msgid "episode"
+msgstr "epizoda"
+
+msgctxt "#30329"
+msgid "All"
+msgstr "Vše"
+
+msgctxt "#30330"
+msgid "CZECH"
+msgstr "Česky"
+
+msgctxt "#30331"
+msgid "SLOVAK"
+msgstr "Slovensky"
+
+msgctxt "#30332"
+msgid "ENGLISH"
+msgstr "Anglicky"
+
+msgctxt "#30333"
+msgid "CHINESE"
+msgstr "Čínsky"
+
+msgctxt "#30334"
+msgid "GERMAN"
+msgstr "Německy"
+
+msgctxt "#30335"
+msgid "GREEK"
+msgstr "Řecky"
+
+msgctxt "#30336"
+msgid "SPANISH"
+msgstr "Španělsky"
+
+msgctxt "#30337"
+msgid "FINNISH"
+msgstr "Finsky"
+
+msgctxt "#30338"
+msgid "FRENCH"
+msgstr "Francouzsky"
+
+msgctxt "#30339"
+msgid "CROATIAN"
+msgstr "Chorvatsky"
+
+msgctxt "#30340"
+msgid "INDU"
+msgstr "Hindsky"
+
+msgctxt "#30341"
+msgid "ITALIAN"
+msgstr "Italsky"
+
+msgctxt "#30342"
+msgid "JAPANESE"
+msgstr "Japonsky"
+
+msgctxt "#30343"
+msgid "KOREAN"
+msgstr "Korejsky"
+
+msgctxt "#30344"
+msgid "DUTCH"
+msgstr "Dánsky"
+
+msgctxt "#30345"
+msgid "NORWEGIAN"
+msgstr "Norsky"
+
+msgctxt "#30346"
+msgid "POLISH"
+msgstr "Polsky"
+
+msgctxt "#30347"
+msgid "PORTUGUESE"
+msgstr "Portugalsky"
+
+msgctxt "#30348"
+msgid "RUSSIAN"
+msgstr "Rusky"
+
+msgctxt "#30349"
+msgid "TURKISH"
+msgstr "Turecky"
+
+msgctxt "#30350"
+msgid "popularity"
+msgstr "popularity"
+
+msgctxt "#30351"
+msgid "CSFD rating"
+msgstr "CSFD hodnocení"
+
+msgctxt "#30352"
+msgid "IMDB rating"
+msgstr "IMDB hodnocení"
+
+msgctxt "#30353"
+msgid "movie budget"
+msgstr "rozpočtu"
+
+msgctxt "#30354"
+msgid "movie revenue"
+msgstr "tržeb"
+
+msgctxt "#30355"
+msgid "alphabet"
+msgstr "abecedně"
+
+msgctxt "#30356"
+msgid "date added"
+msgstr "data přidání"
+
+msgctxt "#30357"
+msgid "best match"
+msgstr "nejlepší shody"
+
+msgctxt "#30358"
+msgid "descending"
+msgstr "sestupně"
+
+msgctxt "#30359"
+msgid "VIETNAMESE"
+msgstr "Vietnamsky"
+
+msgctxt "#30360"
+msgid "Czech Republic"
+msgstr "Česká Republika"
+
+msgctxt "#30361"
+msgid "USA"
+msgstr "USA"
+
+msgctxt "#30362"
+msgid "Slovakia"
+msgstr "Slovensko"
+
+msgctxt "#30363"
+msgid "Great Britain"
+msgstr "Velká Británie"
+
+msgctxt "#30364"
+msgid "Germany"
+msgstr "Německo"
+
+msgctxt "#30365"
+msgid "Spain"
+msgstr "Španělsko"
+
+msgctxt "#30366"
+msgid "America"
+msgstr "Amerika"
+
+msgctxt "#30367"
+msgid "France"
+msgstr "Francie"
+
+msgctxt "#30368"
+msgid "Italia"
+msgstr "Itálie"
+
+msgctxt "#30369"
+msgid "Canada"
+msgstr "Kanada"
+
+msgctxt "#30370"
+msgid "Romania"
+msgstr "Rumunsko"
+
+msgctxt "#30371"
+msgid "Japan"
+msgstr "Japonsko"
+
+msgctxt "#30372"
+msgid "HongKong"
+msgstr "Hong Kong"
+
+msgctxt "#30373"
+msgid "Turkey"
+msgstr "Turecko"
+
+msgctxt "#30374"
+msgid "Austria"
+msgstr "Rakousko"
+
+msgctxt "#30375"
+msgid "Denmark"
+msgstr "Dánsko"
+
+msgctxt "#30376"
+msgid "Netherlands"
+msgstr "Nizozemí"
+
+msgctxt "#30377"
+msgid "Belgium"
+msgstr "Belgie"
+
+msgctxt "#30378"
+msgid "Ireland"
+msgstr "Irsko"
+
+msgctxt "#30379"
+msgid "Egypt"
+msgstr "Egypt"
+
+msgctxt "#30380"
+msgid "Switzerland"
+msgstr "Švýcarsko"
+
+msgctxt "#30381"
+msgid "Peru"
+msgstr "Peru"
+
+msgctxt "#30382"
+msgid "Luxembourg"
+msgstr "Lucembursko"
+
+msgctxt "#30383"
+msgid "JAR"
+msgstr "Jihoafrická Republika"
+
+msgctxt "#30384"
+msgid "New Zealand"
+msgstr "Nový Zéland"
+
+msgctxt "#30385"
+msgid "China"
+msgstr "Čína"
+
+msgctxt "#30386"
+msgid "Ukraine"
+msgstr "Ukrajina"
+
+msgctxt "#30387"
+msgid "Finland"
+msgstr "Finsko"
+
+msgctxt "#30388"
+msgid "Sweden"
+msgstr "Švédsko"
+
+msgctxt "#30389"
+msgid "Russia"
+msgstr "Rusko"
+
+msgctxt "#30390"
+msgid "Streamuj.tv credentials"
+msgstr "Streamuj.tv přihlašovací údaje"
+
+msgctxt "#30391"
+msgid "Sosac.tv credentials"
+msgstr "Sosac.tv přihlašovací údaje"
+
+msgctxt "#30392"
+msgid "Streamuj.tv premium prepaid until"
+msgstr "Streamuj.tv účet předplacen do "
+
+msgctxt "#30393"
+msgid "You currently do not have any premium time."
+msgstr "Na Streamuj.tv účtu nemáte premium. Pro neomezené přehrávání si prosím prodlužte premium na www.Streamuj.tv/premium."
+
+msgctxt "#30394"
+msgid "User account with this username and password does not exist on www.Streamuj.tv"
+msgstr "Účet s tímto uživatelským jménem a heslem na streamuj.tv neexistuje. Heslo si můžete obnovit na www.Streamuj.tv/recoverpassword. Uložili jste zadané heslo stisknutím ok? Nejdříve je potřeba nastavení stiskem ok uložit a poté znovu spustit nastavení a spustit tuto funkci."
+
+msgctxt "#30395"
+msgid "Username and password are correct."
+msgstr "Uživatelské jméno a heslo jsou v pořádku."
+
+msgctxt "#30396"
+msgid "Account with this username and password does not exist on kodi-api.Sosac.tv"
+msgstr "Účet s tímto uživatelským jménem a heslem na sosac.tv neexistuje. Heslo si můžete obnovit na kodi-api.Sosac.tv_ . Uložili jste zadané heslo stisknutím ok? Nejdříve je potřeba nastavení stiskem ok uložit a poté znovu spustit nastavení a spustit tuto funkci."
+
+msgctxt "#30397"
+msgid "Check Streamuj.tv credentials"
+msgstr "Zkontrolovat Streamuj.tv přihlášení"
+
+msgctxt "#30398"
+msgid "Check Sosac.tv  credentials"
+msgstr "Zkontrolovat Sosac.tv přihlášení"
+
+msgctxt "#30399"
+msgid "After entering your login details, please check them with this function. First, you need to save all the entered data by pressing the OK button and then go back to the settings and start this function."
+msgstr "Po zadání Vašich přihlašovacích údajů je prosím zkontrolujte touto funkcí. Nejdříve je potřeba všechny zadané údaje uložit stiskem tlačítka OK a poté se znovu vrátit do nastavení a spustit tuto funkci."
+
+msgctxt "#30279"
+msgid "Clic to check your Sosac.tv  credentials. After entering your login details, please check them with this function. First, you need to save all the entered data by pressing the OK button and then go back to the settings and start this function."
+msgstr "Po zadání Vašich přihlašovacích údajů je prosím zkontrolujte touto funkcí. Nejdříve je potřeba všechny zadané údaje uložit stiskem tlačítka OK a poté se znovu vrátit do nastavení a spustit tuto funkci."
+
+msgctxt "#30037"
+msgid "Simple movie search"
+msgstr "Hledání filmů dle klíčových slov"
+
+msgctxt "#30038"
+msgid "Simple TV show search"
+msgstr "Hledání seriálů dle klíčových slov"
+
+msgctxt "#30039"
+msgid "Advanced movie search"
+msgstr "Pokročilé parametrické hledání filmů"
+
+msgctxt "#30068"
+msgid "Advanced TV show search"
+msgstr "Pokročilé parametrické hledání seriálů"
+
+msgctxt "#30277"
+msgid "seasons"
+msgstr "sezón"
+
+msgctxt "#30278"
+msgid "episodes"
+msgstr "epizod"
+
+msgctxt "#30161"
+msgid "TV shows update start"
+msgstr "Začínám kontrolovat stažené seriály"
+
+msgctxt "#30276"
+msgid "not yet added"
+msgstr "zatím neaktivní"
+
+msgctxt "#30160"
+msgid "Select a day"
+msgstr "Vyberte den"
+
+msgctxt "#30199"
+msgid "not"
+msgstr "ne"
+
+msgctxt "#30401"
+msgid "Start checking TVshows update"
+msgstr "Kontroluji nové epizody seriálů"
+
+msgctxt "#30405"
+msgid "Your username/password combination of sosac.tv account is wrong"
+msgstr "Zkontrolujte v nastavení přihlašovací údaje k Sosac.tv účtu. Nejsou správné."
+
+msgctxt "#30406"
+msgid "To finish Skin's install please close Kodi and start again"
+msgstr "Chcete-li dokončit instalaci doplňku Sosac.TV, je nutné restartovat Kodi."
+
+msgctxt "#30407"
+msgid "No Cancel"
+msgstr "Restartuji Kodi později"
+
+msgctxt "#30408"
+msgid "Force Close Kodi"
+msgstr "Vypnout Kodi nyní"

@@ -1,0 +1,1362 @@
+# Kodi Media Center language file
+# Addon Name: Phenomenal
+# Addon id: skin.phenomenal
+# Addon Provider: bluecloudragon
+msgid ""
+msgstr ""
+
+msgctxt "#30402"
+msgid "Sosac.TV"
+msgstr ""
+
+msgctxt "#30403"
+msgid "Please wait..."
+msgstr ""
+
+msgctxt "#30404"
+msgid "Login failed, please check addon settings"
+msgstr ""
+
+msgctxt "#30000"
+msgid "Movies"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Tv Shows"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Tv Guide"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Search"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Settings"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Advanced Search"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Downloaded"
+msgstr ""
+
+msgctxt "#30007"
+msgid "My Playlist"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Unfinished"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Watched"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Newly Dubbed"
+msgstr ""
+
+msgctxt "#30011"
+msgid "New movies with Subtitles"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Lastly Added"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Current Topic Movies"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Popular News Movies"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Popular Movies"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Rated News Movies"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Best Rated Movies"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Movies A-Z"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Genre"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Year"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Quality"
+msgstr ""
+
+msgctxt "#30022"
+msgid "My TV shows playlist"
+msgstr ""
+
+msgctxt "#30023"
+msgid "My unfinished TV shows"
+msgstr ""
+
+msgctxt "#30024"
+msgid "My watched  TV shows"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Last added TV shows"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Episodes with newly added dubbing"
+msgstr ""
+
+msgctxt "#30027"
+msgid "New episodes with subtitles"
+msgstr ""
+
+msgctxt "#30028"
+msgid "Last added episodes"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Episodes tracker"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Popular new TV shows"
+msgstr ""
+
+msgctxt "#30031"
+msgid "Popular TV shows"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Rated News TV shows"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Best Rated TV shows"
+msgstr ""
+
+msgctxt "#30034"
+msgid "TV shows A-Z"
+msgstr ""
+
+msgctxt "#30035"
+msgid "TV shows by genre"
+msgstr ""
+
+msgctxt "#30036"
+msgid "TV shows by year"
+msgstr ""
+
+msgctxt "#30040"
+msgid "Delete old item"
+msgstr ""
+
+msgctxt "#30041"
+msgid "Reset all search parameters"
+msgstr ""
+
+msgctxt "#30042"
+msgid "Sort results by"
+msgstr ""
+
+msgctxt "#30043"
+msgid "Keyword"
+msgstr ""
+
+msgctxt "#30044"
+msgid "Script writer"
+msgstr ""
+
+msgctxt "#30045"
+msgid "Actor"
+msgstr ""
+
+msgctxt "#30046"
+msgid "Release year from"
+msgstr ""
+
+msgctxt "#30047"
+msgid "Release year to"
+msgstr ""
+
+msgctxt "#30048"
+msgid "Genre"
+msgstr ""
+
+msgctxt "#30049"
+msgid "Origin country"
+msgstr ""
+
+msgctxt "#30050"
+msgid "Spoken language"
+msgstr ""
+
+msgctxt "#30051"
+msgid "Available quality"
+msgstr ""
+
+msgctxt "#30052"
+msgid "Director"
+msgstr ""
+
+msgctxt "#30053"
+msgid "Submit"
+msgstr ""
+
+msgctxt "#30054"
+msgid "Select sort parameter"
+msgstr ""
+
+msgctxt "#30055"
+msgid "Input media name"
+msgstr ""
+
+msgctxt "#30056"
+msgid "Input director name"
+msgstr ""
+
+msgctxt "#30057"
+msgid "Input script writer name"
+msgstr ""
+
+msgctxt "#30058"
+msgid "Input actor name"
+msgstr ""
+
+msgctxt "#30059"
+msgid "Select year to release from"
+msgstr ""
+
+msgctxt "#30060"
+msgid "Select year to release to"
+msgstr ""
+
+msgctxt "#30061"
+msgid "Select genre"
+msgstr ""
+
+msgctxt "#30062"
+msgid "Select origin country"
+msgstr ""
+
+msgctxt "#30063"
+msgid "Select spoken language"
+msgstr ""
+
+msgctxt "#30064"
+msgid "Select Available quality"
+msgstr ""
+
+msgctxt "#30065"
+msgid "Available quality"
+msgstr ""
+
+msgctxt "#30066"
+msgid "Director"
+msgstr ""
+
+msgctxt "#30067"
+msgid "Submit"
+msgstr ""
+
+msgctxt "#30070"
+msgid "Select date from"
+msgstr ""
+
+msgctxt "#30071"
+msgid "Select date to"
+msgstr ""
+
+msgctxt "#30072"
+msgid "Next"
+msgstr ""
+
+msgctxt "#30073"
+msgid "Previous"
+msgstr ""
+
+msgctxt "#30074"
+msgid "Choose streams quality"
+msgstr ""
+
+msgctxt "#30075"
+msgid "Could not find any streams"
+msgstr ""
+
+msgctxt "#30076"
+msgid "Start Downloading"
+msgstr ""
+
+msgctxt "#30077"
+msgid "Downloaded percent"
+msgstr ""
+
+msgctxt "#30078"
+msgid "Download Completed"
+msgstr ""
+
+msgctxt "#30079"
+msgid "Download error"
+msgstr ""
+
+msgctxt "#30100"
+msgid "Description menu :  Movies"
+msgstr ""
+
+msgctxt "#30101"
+msgid "Description menu :  Tv Shows"
+msgstr ""
+
+msgctxt "#30102"
+msgid "Description menu :  Tv Guide"
+msgstr ""
+
+msgctxt "#30103"
+msgid "Description menu :  Search"
+msgstr ""
+
+msgctxt "#30104"
+msgid "Description menu :  Settings"
+msgstr ""
+
+msgctxt "#30105"
+msgid "Description menu :  Advanced Search"
+msgstr ""
+
+msgctxt "#30106"
+msgid "Description menu :  Downloaded"
+msgstr ""
+
+msgctxt "#30107"
+msgid "Description menu :  My Playlist"
+msgstr ""
+
+msgctxt "#30108"
+msgid "Description menu :  Unfinished"
+msgstr ""
+
+msgctxt "#30109"
+msgid "Description menu :  Watched"
+msgstr ""
+
+msgctxt "#30110"
+msgid "Description menu :  Newly Dubbed"
+msgstr ""
+
+msgctxt "#30111"
+msgid "Description menu :  New movies with Subtitles"
+msgstr ""
+
+msgctxt "#30112"
+msgid "Description menu :  Lastly Added"
+msgstr ""
+
+msgctxt "#30113"
+msgid "Description menu :  Current Topic Movies"
+msgstr ""
+
+msgctxt "#30114"
+msgid "Description menu :  Popular News Movies"
+msgstr ""
+
+msgctxt "#30115"
+msgid "Description menu :  Popular Movies"
+msgstr ""
+
+msgctxt "#30116"
+msgid "Description menu :  Rated News Movies"
+msgstr ""
+
+msgctxt "#30117"
+msgid "Description menu :  Best Rated Movies"
+msgstr ""
+
+msgctxt "#30118"
+msgid "Description menu :  Movies A-Z"
+msgstr ""
+
+msgctxt "#30119"
+msgid "Description menu :  Genre"
+msgstr ""
+
+msgctxt "#30120"
+msgid "Description menu :  Year"
+msgstr ""
+
+msgctxt "#30121"
+msgid "Description menu :  Quality"
+msgstr ""
+
+msgctxt "#30122"
+msgid "Description menu :  My TV shows playlist"
+msgstr ""
+
+msgctxt "#30123"
+msgid "Description menu :  My unfinished TV shows"
+msgstr ""
+
+msgctxt "#30124"
+msgid "Description menu :  My watched  TV shows"
+msgstr ""
+
+msgctxt "#30125"
+msgid "Description menu :  Last added TV shows"
+msgstr ""
+
+msgctxt "#30126"
+msgid "Description menu :  Episodes with newly added dubbing"
+msgstr ""
+
+msgctxt "#30127"
+msgid "Description menu :  New episodes with subtitles"
+msgstr ""
+
+msgctxt "#30128"
+msgid "Description menu :  Last added episodes"
+msgstr ""
+
+msgctxt "#30129"
+msgid "Description menu :  Episodes tracker"
+msgstr ""
+
+msgctxt "#30130"
+msgid "Description menu :  Popular new TV shows"
+msgstr ""
+
+msgctxt "#30131"
+msgid "Description menu :  Popular TV shows"
+msgstr ""
+
+msgctxt "#30132"
+msgid "Description menu :  Rated News TV shows"
+msgstr ""
+
+msgctxt "#30133"
+msgid "Description menu :  Best Rated TV shows"
+msgstr ""
+
+msgctxt "#30134"
+msgid "Description menu :  TV shows A-Z"
+msgstr ""
+
+msgctxt "#30135"
+msgid "Description menu :  TV shows by genre"
+msgstr ""
+
+msgctxt "#30136"
+msgid "Description menu :  TV shows by year"
+msgstr ""
+
+msgctxt "#30140"
+msgid "Description menu :  Delete old item"
+msgstr ""
+
+msgctxt "#30141"
+msgid "Description menu :  Reset all search parameters"
+msgstr ""
+
+msgctxt "#30142"
+msgid "Description menu :  Sort results by"
+msgstr ""
+
+msgctxt "#30143"
+msgid "Description menu :  Keyword"
+msgstr ""
+
+msgctxt "#30144"
+msgid "Description menu :  Script writer"
+msgstr ""
+
+msgctxt "#30145"
+msgid "Description menu :  Actor"
+msgstr ""
+
+msgctxt "#30146"
+msgid "Description menu :  Release year from"
+msgstr ""
+
+msgctxt "#30147"
+msgid "Description menu :  Release year to"
+msgstr ""
+
+msgctxt "#30148"
+msgid "Description menu :  Genre"
+msgstr ""
+
+msgctxt "#30149"
+msgid "Description menu :  Origin country"
+msgstr ""
+
+msgctxt "#30150"
+msgid "Description menu :  Spoken language"
+msgstr ""
+
+msgctxt "#30151"
+msgid "Description menu :  Available quality"
+msgstr ""
+
+msgctxt "#30152"
+msgid "Description menu :  Director"
+msgstr ""
+
+msgctxt "#30200"
+msgid "Streamuj.tv User"
+msgstr ""
+
+msgctxt "#30201"
+msgid "Streamuj.tv Password"
+msgstr ""
+
+msgctxt "#30202"
+msgid "Sosac.tv User"
+msgstr ""
+
+msgctxt "#30203"
+msgid "Sosac.tv Password"
+msgstr ""
+
+msgctxt "#30204"
+msgid "Preferred server location"
+msgstr ""
+
+msgctxt "#30205"
+msgid "Accounts"
+msgstr ""
+
+msgctxt "#30206"
+msgid "Streams"
+msgstr ""
+
+msgctxt "#30207"
+msgid "Downloads"
+msgstr ""
+
+msgctxt "#30208"
+msgid "Others"
+msgstr ""
+
+msgctxt "#30210"
+msgid "Automatically choose stream"
+msgstr ""
+
+msgctxt "#30211"
+msgid "Preferred video quality"
+msgstr ""
+
+msgctxt "#30212"
+msgid "First preferred dubbing language"
+msgstr ""
+
+msgctxt "#30213"
+msgid "Second preferred dubbing language"
+msgstr ""
+
+msgctxt "#30214"
+msgid "Auto subtitles"
+msgstr ""
+
+msgctxt "#30215"
+msgid "First preferred subtitles"
+msgstr ""
+
+msgctxt "#30216"
+msgid "Second preferred subtitles"
+msgstr ""
+
+msgctxt "#30217"
+msgid "Automatically play next episode"
+msgstr ""
+
+msgctxt "#30218"
+msgid "Current topic"
+msgstr ""
+
+msgctxt "#30219"
+msgid "Folder"
+msgstr ""
+
+msgctxt "#30220"
+msgid "Notify percent"
+msgstr ""
+
+msgctxt "#30221"
+msgid "Notify percent every"
+msgstr ""
+
+msgctxt "#30222"
+msgid "Check new episodes each"
+msgstr ""
+
+msgctxt "#30223"
+msgid "Currently installed version"
+msgstr ""
+
+msgctxt "#30224"
+msgid "Check for new version"
+msgstr ""
+
+msgctxt "#30225"
+msgid "Start addon with Kodi start"
+msgstr ""
+
+msgctxt "#30226"
+msgid "CZECH"
+msgstr ""
+
+msgctxt "#30227"
+msgid "SLOVAK"
+msgstr ""
+
+msgctxt "#30228"
+msgid "ENGLISH"
+msgstr ""
+
+msgctxt "#30229"
+msgid "NO"
+msgstr ""
+
+msgctxt "#30230"
+msgid "CZ"
+msgstr "CZ"
+
+msgctxt "#30231"
+msgid "PL"
+msgstr "PL"
+
+msgctxt "#30232"
+msgid "2160p(UHD)"
+msgstr "2160p(UHD)"
+
+msgctxt "#30233"
+msgid "1080p(FHD)"
+msgstr "1080p(FHD)"
+
+msgctxt "#30234"
+msgid "720p(HD)"
+msgstr "720p(HD)"
+
+msgctxt "#30235"
+msgid "480p(SD)"
+msgstr "480p(SD)"
+
+msgctxt "#30236"
+msgid "12hours"
+msgstr "12hours"
+
+msgctxt "#30237"
+msgid "1day"
+msgstr "1day"
+
+msgctxt "#30238"
+msgid "3days"
+msgstr "3days"
+
+msgctxt "#30239"
+msgid "7days"
+msgstr "7days"
+
+msgctxt "#30240"
+msgid "30days"
+msgstr "30days"
+
+msgctxt "#30241"
+msgid "30days"
+msgstr "30days"
+
+msgctxt "#30242"
+msgid "1"
+msgstr "1"
+
+msgctxt "#30243"
+msgid "2"
+msgstr "2"
+
+msgctxt "#30244"
+msgid "2"
+msgstr ""
+
+msgctxt "#30245"
+msgid "10%"
+msgstr "10%"
+
+msgctxt "#30246"
+msgid "20%"
+msgstr "20%"
+
+msgctxt "#30247"
+msgid "30%"
+msgstr "30%"
+
+msgctxt "#30248"
+msgid "40%"
+msgstr "40%"
+
+msgctxt "#30249"
+msgid "50%"
+msgstr "50%"
+
+msgctxt "#30250"
+msgid "accounts settings "
+msgstr ""
+
+msgctxt "#30251"
+msgid "Set Streamuj.tv user"
+msgstr ""
+
+msgctxt "#30252"
+msgid "Set Streamuj.tv password"
+msgstr ""
+
+msgctxt "#30253"
+msgid "Set Sosac.tv user"
+msgstr ""
+
+msgctxt "#30254"
+msgid "Set Sosac.tv password"
+msgstr ""
+
+msgctxt "#30255"
+msgid "Preferred server location for streaming, values 1 (Czech) or 2 (EU)"
+msgstr ""
+
+msgctxt "#30256"
+msgid "Select auto or manual stream dubbing and quality"
+msgstr ""
+
+msgctxt "#30257"
+msgid "Select stream quality"
+msgstr ""
+
+msgctxt "#30258"
+msgid "Select preferred language"
+msgstr ""
+
+msgctxt "#30259"
+msgid "Select second preferred language"
+msgstr ""
+
+msgctxt "#30260"
+msgid "Select to enable auto subtitles"
+msgstr ""
+
+msgctxt "#30261"
+msgid "Select prefered subtitle lenguage"
+msgstr ""
+
+msgctxt "#30262"
+msgid "Select second prefered subtitle lenguage"
+msgstr ""
+
+msgctxt "#30263"
+msgid "Select Automatically play next episodes"
+msgstr ""
+
+msgctxt "#30264"
+msgid "Select to enable or not current topic "
+msgstr ""
+
+msgctxt "#30265"
+msgid "Set streams preferences"
+msgstr ""
+
+msgctxt "#30266"
+msgid "Set downloads preferences"
+msgstr ""
+
+msgctxt "#30267"
+msgid "Set videos downloads folder"
+msgstr ""
+
+msgctxt "#30268"
+msgid "Enable download percent value for notification"
+msgstr ""
+
+msgctxt "#30269"
+msgid "Select download percent value for notification"
+msgstr ""
+
+msgctxt "#30270"
+msgid "Select interval for new episodes"
+msgstr ""
+
+msgctxt "#30271"
+msgid "Others settings"
+msgstr ""
+
+msgctxt "#30272"
+msgid "Display addon version"
+msgstr ""
+
+msgctxt "#30273"
+msgid "Enable to check for new addon version"
+msgstr ""
+
+msgctxt "#30274"
+msgid "Enable to start addon with Kodi start"
+msgstr ""
+
+msgctxt "#30275"
+msgid "Delete item"
+msgstr ""
+
+msgctxt "#30280"
+msgid "Select play"
+msgstr ""
+
+msgctxt "#30281"
+msgid "Start from"
+msgstr ""
+
+msgctxt "#30282"
+msgid "Start from beginning"
+msgstr ""
+
+msgctxt "#30283"
+msgid "Season"
+msgstr ""
+
+msgctxt "#30284"
+msgid "New search keyword"
+msgstr ""
+
+msgctxt "#30285"
+msgid "Description for new search keyword"
+msgstr ""
+
+msgctxt "#30286"
+msgid "Choose stream manually"
+msgstr ""
+
+msgctxt "#30287"
+msgid "Add to playlist"
+msgstr ""
+
+msgctxt "#30288"
+msgid "Remove from playlist"
+msgstr ""
+
+msgctxt "#30289"
+msgid "Reset watched time"
+msgstr ""
+
+msgctxt "#30290"
+msgid "Mark as watched"
+msgstr "Mark as watched"
+
+msgctxt "#30291"
+msgid "Download"
+msgstr "Download"
+
+msgctxt "#30292"
+msgid "File deleted"
+msgstr "File deleted"
+
+msgctxt "#30293"
+msgid "Delete video file"
+msgstr "Delete video file"
+
+msgctxt "#30294"
+msgid "Next"
+msgstr "Next"
+
+msgctxt "#30295"
+msgid "Previous"
+msgstr "Previous"
+
+msgctxt "#30296"
+msgid "action"
+msgstr "action"
+
+msgctxt "#30297
+msgid "adventure"
+msgstr "adventure"
+
+msgctxt "#30298"
+msgid "animation"
+msgstr "animation"
+
+msgctxt "#30299"
+msgid "biography"
+msgstr "biography"
+
+msgctxt "#30300"
+msgid "cartoons"
+msgstr "cartoons"
+
+msgctxt "#30301"
+msgid "comedy"
+msgstr "comedy"
+
+msgctxt "#30302"
+msgid "crime"
+msgstr "crime"
+
+msgctxt "#30303"
+msgid "disaster"
+msgstr "disaster"
+
+msgctxt "#30304"
+msgid "documentary"
+msgstr "documentary"
+
+msgctxt "#30305"
+msgid "drama"
+msgstr "drama"
+
+msgctxt "#30306"
+msgid "erotic"
+msgstr "erotic"
+
+msgctxt "#30307"
+msgid "experimental"
+msgstr "experimental"
+
+msgctxt "#30308"
+msgid "fairytales"
+msgstr "fairytales"
+
+msgctxt "#30309"
+msgid "family"
+msgstr "family"
+
+msgctxt "#30310"
+msgid "fantasy"
+msgstr "fantasy"
+
+msgctxt "#30311"
+msgid "history"
+msgstr "history"
+
+msgctxt "#30312"
+msgid "horror"
+msgstr "horror"
+
+msgctxt "#30313"
+msgid "imax"
+msgstr "imax"
+
+msgctxt "#30314"
+msgid "krimi"
+msgstr "krimi"
+
+msgctxt "#30315"
+msgid "music"
+msgstr "music"
+
+msgctxt "#30316"
+msgid "mystery"
+msgstr "mystery"
+
+msgctxt "#30317"
+msgid "psychological"
+msgstr "psychological"
+
+msgctxt "#30318"
+msgid "publicistic"
+msgstr "publicistic"
+
+msgctxt "#30319"
+msgid "realitytv"
+msgstr "realitytv"
+
+msgctxt "#30320"
+msgid "romance"
+msgstr "romance"
+
+msgctxt "#30321"
+msgid "sci-fi"
+msgstr "sci-fi"
+
+msgctxt "#30322"
+msgid "sport"
+msgstr "sport"
+
+msgctxt "#30323"
+msgid "talkshow"
+msgstr "talkshow"
+
+msgctxt "#30324"
+msgid "thriller"
+msgstr "thriller"
+
+msgctxt "#30325"
+msgid "war"
+msgstr ""
+
+msgctxt "#30326"
+msgid "western"
+msgstr ""
+
+msgctxt "#30327"
+msgid "season"
+msgstr "season"
+
+msgctxt "#30328"
+msgid "episode"
+msgstr "episode"
+
+msgctxt "#30329"
+msgid "All"
+msgstr "All"
+
+msgctxt "#30330"
+msgid "CZECH"
+msgstr "CZECH"
+
+msgctxt "#30331"
+msgid "SLOVAK"
+msgstr "SLOVAK"
+
+msgctxt "#30332"
+msgid "ENGLISH"
+msgstr "ENGLISH"
+
+msgctxt "#30333"
+msgid "CHINESE"
+msgstr "CHINESE"
+
+msgctxt "#30334"
+msgid "GERMAN"
+msgstr "GERMAN"
+
+msgctxt "#30335"
+msgid "GREEK"
+msgstr "GREEK"
+
+msgctxt "#30336"
+msgid "SPANISH"
+msgstr "SPANISH"
+
+msgctxt "#30337"
+msgid "FINNISH"
+msgstr "FINNISH"
+
+msgctxt "#30338"
+msgid "FRENCH"
+msgstr "FRENCH"
+
+msgctxt "#30339"
+msgid "CROATIAN"
+msgstr "CROATIAN"
+
+msgctxt "#30340"
+msgid "INDU"
+msgstr "INDU"
+
+msgctxt "#30341"
+msgid "ITALIAN"
+msgstr "ITALIAN"
+
+msgctxt "#30342"
+msgid "JAPANESE"
+msgstr "JAPANESE"
+
+msgctxt "#30343"
+msgid "KOREAN"
+msgstr "KOREAN"
+
+msgctxt "#30344"
+msgid "DUTCH"
+msgstr "DUTCH"
+
+msgctxt "#30345"
+msgid "NORWEGIAN"
+msgstr "NORWEGIAN"
+
+msgctxt "#30346"
+msgid "POLISH"
+msgstr "POLISH"
+
+msgctxt "#30347"
+msgid "PORTUGUESE"
+msgstr "PORTUGUESE"
+
+msgctxt "#30348"
+msgid "RUSSIAN"
+msgstr "RUSSIAN"
+
+msgctxt "#30349"
+msgid "TURKISH"
+msgstr "TURKISH"
+
+msgctxt "#30350"
+msgid "popularity"
+msgstr "popularity"
+
+msgctxt "#30351"
+msgid "CSFD rating"
+msgstr "CSFD rating"
+
+msgctxt "#30352"
+msgid "IMDB rating"
+msgstr "IMDB rating"
+
+msgctxt "#30353"
+msgid "movie budget"
+msgstr "movie budget"
+
+msgctxt "#30354"
+msgid "movie revenue"
+msgstr "movie revenue"
+
+msgctxt "#30355"
+msgid "alphabet"
+msgstr "alphabet"
+
+msgctxt "#30356"
+msgid "date added"
+msgstr "date added"
+
+msgctxt "#30357"
+msgid "best match"
+msgstr "best match"
+
+msgctxt "#30358"
+msgid "descending"
+msgstr "descending"
+
+msgctxt "#30359"
+msgid "VIETNAMESE"
+msgstr "VIETNAMESE"
+
+msgctxt "#30360"
+msgid "Czech Republic"
+msgstr "Czech Republic"
+
+msgctxt "#30361"
+msgid "USA"
+msgstr "USA"
+
+msgctxt "#30362"
+msgid "Slovakia"
+msgstr "Slovakia"
+
+msgctxt "#30363"
+msgid "Great Britain"
+msgstr "Great Britain"
+
+msgctxt "#30364"
+msgid "Germany"
+msgstr "Germany"
+
+msgctxt "#30365"
+msgid "Spain"
+msgstr "Spain"
+
+msgctxt "#30366"
+msgid "America"
+msgstr "America"
+
+msgctxt "#30367"
+msgid "France"
+msgstr "France"
+
+msgctxt "#30368"
+msgid "Italia"
+msgstr "Italia"
+
+msgctxt "#30369"
+msgid "Canada"
+msgstr "Canada"
+
+msgctxt "#30370"
+msgid "Romania"
+msgstr "Romania"
+
+msgctxt "#30371"
+msgid "Japan"
+msgstr "Japan"
+
+msgctxt "#30372"
+msgid "HongKong"
+msgstr "HongKong"
+
+msgctxt "#30373"
+msgid "Turkey"
+msgstr "Turkey"
+
+msgctxt "#30374"
+msgid "Austria"
+msgstr "Austria"
+
+msgctxt "#30375"
+msgid "Denmark"
+msgstr "Denmark"
+
+msgctxt "#30376"
+msgid "Netherlands"
+msgstr "Netherlands"
+
+msgctxt "#30377"
+msgid "Belgium"
+msgstr "Belgium"
+
+msgctxt "#30378"
+msgid "Ireland"
+msgstr "Ireland"
+
+msgctxt "#30379"
+msgid "Egypt"
+msgstr "Egypt"
+
+msgctxt "#30380"
+msgid "Switzerland"
+msgstr "Switzerland"
+
+msgctxt "#30381"
+msgid "Peru"
+msgstr "Peru"
+
+msgctxt "#30382"
+msgid "Luxembourg"
+msgstr "Luxembourg"
+
+msgctxt "#30383"
+msgid "JAR"
+msgstr "JAR"
+
+msgctxt "#30384"
+msgid "New Zealand"
+msgstr "New Zealand"
+
+msgctxt "#30385"
+msgid "China"
+msgstr "China"
+
+msgctxt "#30386"
+msgid "Ukraine"
+msgstr ""
+
+msgctxt "#30387"
+msgid "Finland"
+msgstr ""
+
+msgctxt "#30388"
+msgid "Sweden"
+msgstr ""
+
+msgctxt "#30389"
+msgid "Russia"
+msgstr ""
+
+msgctxt "#30390"
+msgid "Streamuj.tv credentials"
+msgstr ""
+
+msgctxt "#30391"
+msgid "Sosac.tv credentials"
+msgstr ""
+
+msgctxt "#30392"
+msgid "Streamuj.tv premium prepaid until"
+msgstr ""
+
+msgctxt "#30393"
+msgid "You currently do not have any premium time."
+msgstr ""
+
+msgctxt "#30394"
+msgid "User account with this username and password does not exist on www.streamuj.tv"
+msgstr ""
+
+msgctxt "#30395"
+msgid "Username and password are correct."
+msgstr ""
+
+msgctxt "#30396"
+msgid "Account with this username and password does not exist on sosac.tv"
+msgstr ""
+
+msgctxt "#30397"
+msgid "Check Streamuj.tv credentials"
+msgstr ""
+
+msgctxt "#30398"
+msgid "Check Sosac.tv  credentials"
+msgstr ""
+
+msgctxt "#30399"
+msgid "After entering your login details, please check them with this function. First, you need to save all the entered data by pressing the OK button and then go back to the settings and start this function."
+msgstr ""
+
+msgctxt "#30279"
+msgid "Click to check your Sosac.tv credentials. After entering your login details, please check them with this function. First, you need to save all the entered data by pressing the OK button and then go back to the settings and start this function."
+msgstr ""
+
+msgctxt "#30037"
+msgid "Simple movie search"
+msgstr ""
+
+msgctxt "#30038"
+msgid "Simple TV show search"
+msgstr ""
+
+msgctxt "#30039"
+msgid "Advanced movie search"
+msgstr ""
+
+msgctxt "#30068"
+msgid "Advanced TV show search"
+msgstr ""
+
+msgctxt "#30277"
+msgid "seasons"
+msgstr ""
+
+msgctxt "#30278"
+msgid "episodes"
+msgstr ""
+
+msgctxt "#30161"
+msgid "TV shows update start"
+msgstr ""
+
+msgctxt "#30276"
+msgid "not yet added"
+msgstr ""
+
+msgctxt "#30160"
+msgid "Select a day"
+msgstr ""
+
+msgctxt "#30199"
+msgid "no"
+msgstr ""
+
+msgctxt "#30401"
+msgid "Start checking TVshows update"
+msgstr ""
+
+msgctxt "#30405"
+msgid "Your username/password combination of sosac.tv account is wrong"
+msgstr ""
+
+msgctxt "#30406"
+msgid "To finish Skin's install please close Kodi and start again"
+msgstr ""
+
+msgctxt "#30407"
+msgid "No Cancel"
+msgstr ""
+
+msgctxt "#30408"
+msgid "Force Close Kodi"
+msgstr ""
