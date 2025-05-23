@@ -31,9 +31,6 @@ yesno = ["YES","NO"]
 sosac_domain = __set__("sosac_domain")
 streaming_provider = __set__("streaming_provider")
 domain_actif = __set__("domain_actif")
-print("domain_actif ",domain_actif)
-#STREAMUJ_API = "https://www.streamuj.tv/json_api_player.php?"
-#SOSAC_API = "https://kodi-api.sosac.to/"
 STREAMUJ_API = f"https://{streaming_provider}/json_api_player.php?"
 SOSAC_API = f"https://{sosac_domain}/"
 SOSAC_MOVIES = "https://movies.sosac.tv/images/75x109/movie-"
@@ -193,31 +190,6 @@ def passhash() :
     passwordForApi2 = md5((passwordForApi + 'EWs5yVD4QF2sshGm22EWVa').encode('utf-8'))
     sosac_passwordhash = passwordForApi2.hexdigest()
     stream_url = f"{SOSAC_API}movies/lists/popular?pocet=100&stranka=1&username={sosac_user}&password={sosac_passwordhash}"
-    source = requests.get(stream_url)
-    data = json.loads(source.text)
-    debug("passhash %s "%source.status_code, 2)
-    debug("passhash data %s "%data[0], 2)
-    try :
-        if data[0]["w"] == None :
-            debug('data["w"] %s'%data[0]["w"],2)
-            repse = dialog.yesno(addon_name_,translate(30405))
-            if repse  :
-                addon.openSettings()
-            exit()
-    except Exception as e:
-        debug('data["w"] error %s'%e,2)
-        pass
-    
-    if source.status_code == "403" :
-        repse = dialog.yesno(addon_name_,translate(30404))
-        if repse  :
-            addon.openSettings()
-        exit()
-    elif source.status_code == "401" :
-        repse = dialog.yesno(addon_name_,translate(30405))
-        if repse  :
-            addon.openSettings()
-        exit()
     return sosac_passwordhash
 
 def set_streamujtv_info(stream):
@@ -241,7 +213,6 @@ def set_streamujtv_info(stream):
     elif h  :
         stream_url = f"{STREAMUJ_API}action=check-user&password={h}&login={streamujtv_user}&passwordinmd5=1"
     else : exit()
-    print("check stream_url", stream_url)
     return stream_url
 
 def set_sosac_info(stream,**kwargs):
@@ -263,16 +234,6 @@ def set_sosac_info(stream,**kwargs):
         genrev = kwargs['arg2']
         genre = genre1[int(genrev)]
         stream_url = f"{SOSAC_API}movies/lists/by-genre?g={genre}&pocet=100&stranka={page}&username={sosac_user}&password={sosac_passwordhash}"
-    elif stream == "into-queue" :
-        _id = kwargs['arg2']
-        stream_url = f"{SOSAC_API}movies/{_id}/into-queue?username={sosac_user}&password={sosac_passwordhash}"
-        respse = requests.post(stream_url,data={})
-        return
-    elif stream == "off-queue" :
-        _id = kwargs['arg2']
-        stream_url = f"{SOSAC_API}movies/{_id}/off-queue?username={sosac_user}&password={sosac_passwordhash}"
-        respse = requests.post(stream_url,data={})
-        return
     elif stream == "id":
         _id = kwargs['arg2']
         stream_url = f"{SOSAC_API}movies/{_id}?username={sosac_user}&password={sosac_passwordhash}"
@@ -280,7 +241,6 @@ def set_sosac_info(stream,**kwargs):
     else : 
         stream_url = f"{SOSAC_API}movies/lists/{stream}?pocet=100&stranka={page}&username={sosac_user}&password={sosac_passwordhash}"
 
-    debug("stream_url %s"%stream_url,2)
     return stream_url
 
 
@@ -302,19 +262,6 @@ def set_sosac_ser(stream,**kwargs):
         genrev = kwargs['arg2']
         genre = genre1[int(genrev)]
         stream_url = f"{SOSAC_API}serials/lists/by-genre?g={genre}&pocet=100&stranka={page}&username={sosac_user}&password={sosac_passwordhash}"
-    elif stream == "into-queue" :
-        _id = kwargs['arg2']
-        stream_url = f"{SOSAC_API}serials/{_id}/into-queue?username={sosac_user}&password={sosac_passwordhash}"
-        respse = requests.post(stream_url,data={})
-        debug("stream_url %s"%stream_url,2)
-        return
-    elif stream == "off-queue" :
-        _id = kwargs['arg2']
-        stream_url = f"{SOSAC_API}serials/{_id}/off-queue?username={sosac_user}&password={sosac_passwordhash}"
-        respse = requests.post(stream_url,data={})
-        debug("stream_url %s"%stream_url,2)
-        return
-
     elif "episodes" == episodes :
         _id = kwargs['arg2'] 
         if _id != "22" :
@@ -326,14 +273,12 @@ def set_sosac_ser(stream,**kwargs):
     else : 
         stream_url = f"{SOSAC_API}serials/lists/{stream}?pocet=100&stranka={page}&username={sosac_user}&password={sosac_passwordhash}"
 
-    debug("stream_url %s"%stream_url,2)    
     return stream_url
 
 def set_sosac_epi(sais_id) :
     sosac_passwordhash = passhash()
     sais_id = int(sais_id)
     stream_url = f"{SOSAC_API}serials/{sais_id}?username={sosac_user}&password={sosac_passwordhash}"
-    debug("set_sosac_epi stream_url %s"%stream_url,2)
     return stream_url
 
 

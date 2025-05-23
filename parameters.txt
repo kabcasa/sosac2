@@ -1,0 +1,91 @@
+Movie
+q – quality – tvrip, kinorip, sd, hd, fhd or uhd
+i – poster – smaller image for Kodi listing
+b – larger image for background of listing
+n – title of movie in different languages, each language can have multiple titles Example: "n":{"cs":["Karamazovi"],"en":["The Karamazov Brothers","The Karamazovs"]} Czech title is Karamazovi, english titles are The Karamazov Brothers and The Karamazovs
+d – available dubbings and subtitles for movie, can be for example "en+cztit", "cz", "sk" etc.
+y – release year
+c – movie rating on csfd.cz
+cp – number of people that rated movie on csfd.cz
+m – movie rating on imdb.com
+mp – number of people that rated movie on imdb.com
+t – movie revenue in USD
+k – movie budget in USD
+a – age rating
+o – movie origin countries
+s – names of movie directors
+f – top 5 actors of movie
+h – movie scenarists
+g – genres of movie
+p – czech annotation of movie, 400 characters is maximum
+l – streamuj.tv unique streaming identifier used for streamuj.tv API to get links
+dl – length of movie in seconds
+e – sound type of movie, usually stereo or surround
+r – date when the movie was added to sosac.tv database
+w – number of seconds that user already streamed, this value is different for each user
+
+############################################
+TV Show
+_id – id of tv show on sosac.tv, used to get list of episodes
+q – quality of S01E01 – tvrip, kinorip, sd, hd, fhd or uhd
+i – poster – smaller image for Kodi listing
+b – larger image for background of listing
+n – title of movie in different languages, each language can have multiple titles Example: "n":{"cs":["Karamazovi"],"en":["The Karamazov Brothers","The Karamazovs"]} Czech title is Karamazovi, english titles are The Karamazov Brothers and The Karamazovs
+d – available dubbings and subtitles, variants from all episodes, can be for example "en+cztit", "cz", "sk" etc.
+y – release year
+c – movie rating on csfd.cz
+cp – number of people that rated tv show on csfd.cz
+m – tv show rating on imdb.com
+mp – number of people that rated tv show on imdb.com
+a – age rating
+o – tv show origin countries
+s – names of tv show directors
+f – top 5 actors of tv show
+h – tv show scenarists
+g – genres of tv show
+p – czech annotation of tv show, 400 characters is maximum
+dl – length of first episode in seconds
+e – sound type of first episode, usually stereo or surround
+r – date when the tv show was added to sosac.tv database
+z – number of tv show seasons
+v – total number of episodes
+
+#####################################################
+List of episodes
+It is structured by seasons and episodes in JSON
+_id – id of episode on sosac.tv
+q – quality of S01E01 – tvrip, kinorip, sd, hd, fhd or uhd
+i – poster – episode image
+n – title of episode in czech and english
+d – available dubbings and subtitles, can be for example "en+cztit", "cz", "sk" etc.
+p – czech annotation of tv show, 400 characters is maximum
+dl – length episode in seconds
+e – sound type of episode, usually stereo or surround
+r – date when the episode was first aired
+w – number of seconds that user already streamed, this value is different for each user
+1 episode
+_id – id of episode on sosac.tv
+q – quality – tvrip, kinorip, sd, hd, fhd or uhd
+i – poster – smaller image for Kodi listing
+ie – episode image
+b – larger image for background of listing
+n – title of tv show in different languages, each language can have multiple titles Example: "n":{"cs":["Karamazovi"],"en":["The Karamazov Brothers","The Karamazovs"]} Czech title is Karamazovi, english titles are The Karamazov Brothers and The Karamazovs
+ne – title of episode in czech and english
+d – available dubbings and subtitles for episode, can be for example "en+cztit", "cz", "sk" etc.
+y – release year
+c – movie rating on csfd.cz
+cp – number of people that rated movie on csfd.cz
+m – movie rating on imdb.com
+mp – number of people that rated movie on imdb.com
+a – age rating
+o – tv show origin countries
+g – genres of movie
+p – czech annotation of movie, 400 characters is maximum
+l – streamuj.tv unique streaming identifier used for streamuj.tv API to get links
+dl – length of episode in seconds
+e – sound type of movie, usually stereo or surround
+id – id of tv show on sosac.tv
+s – season number
+ep – episode number
+r – date of first episode air
+w – number of seconds that user already streamed, this value is different for each user
